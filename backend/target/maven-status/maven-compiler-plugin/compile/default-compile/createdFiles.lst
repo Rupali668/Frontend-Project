@@ -1,0 +1,11 @@
+com\financetracker\backend\config\WebConfig.class
+com\financetracker\backend\entity\Transaction.class
+com\financetracker\backend\FinanceTrackerApplication.class
+com\financetracker\backend\service\TransactionService.class
+com\financetracker\backend\dto\TransactionRequest.class
+com\financetracker\backend\controller\TransactionController.class
+com\financetracker\backend\exception\ResourceNotFoundException.class
+com\financetracker\backend\repository\TransactionRepository.class
+com\financetracker\backend\dto\SummaryResponse.class
+com\financetracker\backend\exception\GlobalExceptionHandler.class
+com\financetracker\backend\entity\TransactionType.class
